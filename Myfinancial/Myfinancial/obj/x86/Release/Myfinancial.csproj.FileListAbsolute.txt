@@ -9,3 +9,5 @@ D:\Csharpapp\Myfinancial\Myfinancial\obj\x86\Release\Myfinancial.exe
 D:\Csharpapp\Myfinancial\Myfinancial\obj\x86\Release\Myfinancial.pdb
 D:\Csharpapp\Myfinancial\Myfinancial\obj\x86\Release\Myfinancial.csprojResolveAssemblyReference.cache
 D:\Csharpapp\Myfinancial\Myfinancial\obj\x86\Release\Myfinancial.csproj.GenerateResource.Cache
+D:\MyGit\Csharpapp\MyCharpApp\Myfinancial\Myfinancial\obj\x86\Release\Myfinancial.exe
+D:\MyGit\Csharpapp\MyCharpApp\Myfinancial\Myfinancial\obj\x86\Release\Myfinancial.pdb

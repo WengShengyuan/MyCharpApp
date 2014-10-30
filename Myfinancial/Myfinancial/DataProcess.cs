@@ -16,7 +16,6 @@ namespace Myfinancial
         public String Filepath;//文本路径
         public String Caltype;//物品类型：hj,by,bj,oil
         public DataSet ds;
-        
         public double buymoney;
         public double sellmoney;
         public double buyam;
