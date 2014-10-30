@@ -1,0 +1,11 @@
+D:\Csharpapp\Myfinancial\Myfinancial\bin\Release\Myfinancial.exe
+D:\Csharpapp\Myfinancial\Myfinancial\bin\Release\Myfinancial.pdb
+D:\Csharpapp\Myfinancial\Myfinancial\obj\x86\Release\Myfinancial.DetailGraph.resources
+D:\Csharpapp\Myfinancial\Myfinancial\obj\x86\Release\Myfinancial.Form1.resources
+D:\Csharpapp\Myfinancial\Myfinancial\obj\x86\Release\Myfinancial.MyMetal.resources
+D:\Csharpapp\Myfinancial\Myfinancial\obj\x86\Release\Myfinancial.OilDetail.resources
+D:\Csharpapp\Myfinancial\Myfinancial\obj\x86\Release\Myfinancial.Properties.Resources.resources
+D:\Csharpapp\Myfinancial\Myfinancial\obj\x86\Release\Myfinancial.exe
+D:\Csharpapp\Myfinancial\Myfinancial\obj\x86\Release\Myfinancial.pdb
+D:\Csharpapp\Myfinancial\Myfinancial\obj\x86\Release\Myfinancial.csprojResolveAssemblyReference.cache
+D:\Csharpapp\Myfinancial\Myfinancial\obj\x86\Release\Myfinancial.csproj.GenerateResource.Cache

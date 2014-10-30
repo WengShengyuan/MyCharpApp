@@ -1,0 +1,8 @@
+D:\Csharpapp\BPANNDemo\BPANNDemo\obj\Release\BPANNDemo.ChartForm.resources
+D:\Csharpapp\BPANNDemo\BPANNDemo\obj\Release\BPANNDemo.Form1.resources
+D:\Csharpapp\BPANNDemo\BPANNDemo\obj\Release\BPANNDemo.Properties.Resources.resources
+D:\Csharpapp\BPANNDemo\BPANNDemo\obj\Release\BPANNDemo.csproj.GenerateResource.Cache
+D:\Csharpapp\BPANNDemo\BPANNDemo\bin\Release\BPANNDemo.exe
+D:\Csharpapp\BPANNDemo\BPANNDemo\bin\Release\BPANNDemo.pdb
+D:\Csharpapp\BPANNDemo\BPANNDemo\obj\Release\BPANNDemo.exe
+D:\Csharpapp\BPANNDemo\BPANNDemo\obj\Release\BPANNDemo.pdb

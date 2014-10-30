@@ -1,0 +1,26 @@
+F:\新建文件夹 (2)\BPANNDemo\BPANNDemo\obj\Debug\BPANNDemo.csprojResolveAssemblyReference.cache
+F:\新建文件夹 (2)\BPANNDemo\BPANNDemo\obj\Debug\BPANNDemo.Form1.resources
+F:\新建文件夹 (2)\BPANNDemo\BPANNDemo\obj\Debug\BPANNDemo.Properties.Resources.resources
+F:\新建文件夹 (2)\BPANNDemo\BPANNDemo\obj\Debug\BPANNDemo.csproj.GenerateResource.Cache
+F:\新建文件夹 (2)\BPANNDemo\BPANNDemo\bin\Debug\BPANNDemo.exe
+F:\新建文件夹 (2)\BPANNDemo\BPANNDemo\bin\Debug\BPANNDemo.pdb
+F:\新建文件夹 (2)\BPANNDemo\BPANNDemo\obj\Debug\BPANNDemo.exe
+F:\新建文件夹 (2)\BPANNDemo\BPANNDemo\obj\Debug\BPANNDemo.pdb
+F:\BPANNDemo\BPANNDemo\obj\Debug\BPANNDemo.exe
+F:\BPANNDemo\BPANNDemo\obj\Debug\BPANNDemo.pdb
+F:\BPANNDemo\BPANNDemo\bin\Debug\BPANNDemo.exe
+F:\BPANNDemo\BPANNDemo\bin\Debug\BPANNDemo.pdb
+F:\BPANNDemo\BPANNDemo\obj\Debug\BPANNDemo.Form1.resources
+F:\BPANNDemo\BPANNDemo\obj\Debug\BPANNDemo.Properties.Resources.resources
+F:\BPANNDemo\BPANNDemo\obj\Debug\BPANNDemo.csproj.GenerateResource.Cache
+F:\BPANNDemo\BPANNDemo\obj\Debug\BPANNDemo.ChartForm.resources
+F:\BPANNDemo\BPANNDemo\obj\Debug\BPANNDemo.csprojResolveAssemblyReference.cache
+D:\Csharpapp\BPANNDemo\BPANNDemo\bin\Debug\BPANNDemo.exe
+D:\Csharpapp\BPANNDemo\BPANNDemo\bin\Debug\BPANNDemo.pdb
+D:\Csharpapp\BPANNDemo\BPANNDemo\obj\Debug\BPANNDemo.ChartForm.resources
+D:\Csharpapp\BPANNDemo\BPANNDemo\obj\Debug\BPANNDemo.Form1.resources
+D:\Csharpapp\BPANNDemo\BPANNDemo\obj\Debug\BPANNDemo.Properties.Resources.resources
+D:\Csharpapp\BPANNDemo\BPANNDemo\obj\Debug\BPANNDemo.csproj.GenerateResource.Cache
+D:\Csharpapp\BPANNDemo\BPANNDemo\obj\Debug\BPANNDemo.exe
+D:\Csharpapp\BPANNDemo\BPANNDemo\obj\Debug\BPANNDemo.pdb
+D:\Csharpapp\BPANNDemo\BPANNDemo\obj\Debug\BPANNDemo.csprojResolveAssemblyReference.cache

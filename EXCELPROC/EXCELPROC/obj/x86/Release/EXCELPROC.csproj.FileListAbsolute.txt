@@ -1,0 +1,10 @@
+D:\Csharpapp\EXCELPROC\EXCELPROC\obj\x86\Release\ResolveAssemblyReference.cache
+D:\Csharpapp\EXCELPROC\EXCELPROC\obj\x86\Release\EXCELPROC.Form1.resources
+D:\Csharpapp\EXCELPROC\EXCELPROC\obj\x86\Release\EXCELPROC.Properties.Resources.resources
+D:\Csharpapp\EXCELPROC\EXCELPROC\obj\x86\Release\GenerateResource.read.1.tlog
+D:\Csharpapp\EXCELPROC\EXCELPROC\obj\x86\Release\GenerateResource.write.1.tlog
+D:\Csharpapp\EXCELPROC\EXCELPROC\bin\Release\EXCELPROC.exe
+D:\Csharpapp\EXCELPROC\EXCELPROC\bin\Release\EXCELPROC.pdb
+D:\Csharpapp\EXCELPROC\EXCELPROC\obj\x86\Release\EXCELPROC.exe
+D:\Csharpapp\EXCELPROC\EXCELPROC\obj\x86\Release\EXCELPROC.pdb
+D:\Csharpapp\EXCELPROC\EXCELPROC\obj\x86\Release\EXCELPROC.csproj.ResolveComReference.cache

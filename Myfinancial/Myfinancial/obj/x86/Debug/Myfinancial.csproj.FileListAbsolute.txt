@@ -1,0 +1,10 @@
+D:\Csharpapp\Myfinancial\Myfinancial\bin\Debug\Myfinancial.exe
+D:\Csharpapp\Myfinancial\Myfinancial\bin\Debug\Myfinancial.pdb
+D:\Csharpapp\Myfinancial\Myfinancial\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Csharpapp\Myfinancial\Myfinancial\obj\x86\Debug\Myfinancial.Form1.resources
+D:\Csharpapp\Myfinancial\Myfinancial\obj\x86\Debug\Myfinancial.MyMetal.resources
+D:\Csharpapp\Myfinancial\Myfinancial\obj\x86\Debug\Myfinancial.Properties.Resources.resources
+D:\Csharpapp\Myfinancial\Myfinancial\obj\x86\Debug\ResGen.read.1.tlog
+D:\Csharpapp\Myfinancial\Myfinancial\obj\x86\Debug\ResGen.write.1.tlog
+D:\Csharpapp\Myfinancial\Myfinancial\obj\x86\Debug\Myfinancial.exe
+D:\Csharpapp\Myfinancial\Myfinancial\obj\x86\Debug\Myfinancial.pdb

@@ -1,0 +1,8 @@
+D:\Csharpapp\MemchacheManager\MemchacheManager\obj\Debug\MemchacheManager.csprojResolveAssemblyReference.cache
+D:\Csharpapp\MemchacheManager\MemchacheManager\obj\Debug\MemchacheManager.Form1.resources
+D:\Csharpapp\MemchacheManager\MemchacheManager\obj\Debug\MemchacheManager.Properties.Resources.resources
+D:\Csharpapp\MemchacheManager\MemchacheManager\obj\Debug\MemchacheManager.csproj.GenerateResource.Cache
+D:\Csharpapp\MemchacheManager\MemchacheManager\bin\Debug\MemchacheManager.exe
+D:\Csharpapp\MemchacheManager\MemchacheManager\bin\Debug\MemchacheManager.pdb
+D:\Csharpapp\MemchacheManager\MemchacheManager\obj\Debug\MemchacheManager.exe
+D:\Csharpapp\MemchacheManager\MemchacheManager\obj\Debug\MemchacheManager.pdb
