@@ -354,7 +354,7 @@ namespace 无线网卡切换
             {
                 foreach (string iconfig in configs)
                 {
-                    if(iconfig != null || iconfig!= "")
+                    if(iconfig != null && iconfig.Trim() != "")
                         lb_configList.Items.Add(iconfig);
                 }
             }
