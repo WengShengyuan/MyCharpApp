@@ -1,15 +1,302 @@
-记录时间：2014-11-10 09:54:25,608 线程ID:[10] 日志级别：ERROR 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：error
-System.Exception: 发生了一个异常
-记录时间：2014-11-10 09:54:25,640 线程ID:[10] 日志级别：FATAL 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：fatal
-System.Exception: 发生了一个致命错误
-记录时间：2014-11-10 09:54:25,640 线程ID:[10] 日志级别：INFO  出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：info
-记录时间：2014-11-10 09:54:25,641 线程ID:[10] 日志级别：DEBUG 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：debug
-记录时间：2014-11-10 09:54:25,641 线程ID:[10] 日志级别：WARN  出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：warn
-记录时间：2014-11-10 09:54:26,734 线程ID:[10] 日志级别：ERROR 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：error
-System.Exception: 发生了一个异常
-记录时间：2014-11-10 09:54:26,734 线程ID:[10] 日志级别：FATAL 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：fatal
-System.Exception: 发生了一个致命错误
-记录时间：2014-11-10 09:54:26,735 线程ID:[10] 日志级别：INFO  出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：info
-记录时间：2014-11-10 09:54:26,735 线程ID:[10] 日志级别：DEBUG 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：debug
-记录时间：2014-11-10 09:54:26,735 线程ID:[10] 日志级别：WARN  出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：warn
+记录时间：2014-11-10 15:05:23,033 线程ID:[8] 日志级别：DEBUG 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：Debug
+记录时间：2014-11-10 15:05:23,065 线程ID:[8] 日志级别：ERROR 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：error
+System.Exception: Error
+记录时间：2014-11-10 15:05:23,067 线程ID:[8] 日志级别：FATAL 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：fatal
+System.Exception: Fatal
+记录时间：2014-11-10 15:05:23,067 线程ID:[8] 日志级别：INFO  出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：info
+记录时间：2014-11-10 15:05:23,068 线程ID:[8] 日志级别：WARN  出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：warn
+记录时间：2014-11-10 15:12:49,782 线程ID:[10] 日志级别：DEBUG 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：Debug
+记录时间：2014-11-10 15:12:49,823 线程ID:[10] 日志级别：ERROR 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：error
+System.Exception: Error
+记录时间：2014-11-10 15:12:49,826 线程ID:[10] 日志级别：FATAL 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：fatal
+System.Exception: Fatal
+记录时间：2014-11-10 15:12:49,826 线程ID:[10] 日志级别：INFO  出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：info
+记录时间：2014-11-10 15:12:49,827 线程ID:[10] 日志级别：WARN  出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：warn
+记录时间：2014-11-10 15:14:41,639 线程ID:[10] 日志级别：DEBUG 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：Debug
+记录时间：2014-11-10 15:14:41,640 线程ID:[10] 日志级别：ERROR 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：error
+System.Exception: Error
+记录时间：2014-11-10 15:14:41,641 线程ID:[10] 日志级别：FATAL 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：fatal
+System.Exception: Fatal
+记录时间：2014-11-10 15:14:41,641 线程ID:[10] 日志级别：INFO  出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：info
+记录时间：2014-11-10 15:14:41,642 线程ID:[10] 日志级别：WARN  出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：warn
+记录时间：2014-11-10 15:15:08,050 线程ID:[10] 日志级别：DEBUG 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：Debug
+记录时间：2014-11-10 15:15:08,094 线程ID:[10] 日志级别：ERROR 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：error
+System.Exception: Error
+记录时间：2014-11-10 15:15:08,096 线程ID:[10] 日志级别：FATAL 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：fatal
+System.Exception: Fatal
+记录时间：2014-11-10 15:15:08,097 线程ID:[10] 日志级别：INFO  出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：info
+记录时间：2014-11-10 15:15:08,100 线程ID:[10] 日志级别：WARN  出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：warn
+记录时间：2014-11-10 15:15:09,003 线程ID:[10] 日志级别：DEBUG 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：Debug
+记录时间：2014-11-10 15:15:09,004 线程ID:[10] 日志级别：ERROR 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：error
+System.Exception: Error
+记录时间：2014-11-10 15:15:09,004 线程ID:[10] 日志级别：FATAL 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：fatal
+System.Exception: Fatal
+记录时间：2014-11-10 15:15:09,005 线程ID:[10] 日志级别：INFO  出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：info
+记录时间：2014-11-10 15:15:09,006 线程ID:[10] 日志级别：WARN  出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：warn
+记录时间：2014-11-10 15:16:09,233 线程ID:[10] 日志级别：DEBUG 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：Debug
+记录时间：2014-11-10 15:16:09,235 线程ID:[10] 日志级别：ERROR 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：error
+System.Exception: Error
+记录时间：2014-11-10 15:16:09,236 线程ID:[10] 日志级别：FATAL 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：fatal
+System.Exception: Fatal
+记录时间：2014-11-10 15:16:09,237 线程ID:[10] 日志级别：INFO  出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：info
+记录时间：2014-11-10 15:16:09,237 线程ID:[10] 日志级别：WARN  出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：warn
+记录时间：2014-11-10 15:16:12,929 线程ID:[10] 日志级别：DEBUG 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：Debug
+记录时间：2014-11-10 15:16:12,929 线程ID:[10] 日志级别：ERROR 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：error
+System.Exception: Error
+记录时间：2014-11-10 15:16:12,930 线程ID:[10] 日志级别：FATAL 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：fatal
+System.Exception: Fatal
+记录时间：2014-11-10 15:16:12,930 线程ID:[10] 日志级别：INFO  出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：info
+记录时间：2014-11-10 15:16:12,931 线程ID:[10] 日志级别：WARN  出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：warn
+记录时间：2014-11-10 15:16:13,468 线程ID:[10] 日志级别：DEBUG 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：Debug
+记录时间：2014-11-10 15:16:13,468 线程ID:[10] 日志级别：ERROR 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：error
+System.Exception: Error
+记录时间：2014-11-10 15:16:13,469 线程ID:[10] 日志级别：FATAL 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：fatal
+System.Exception: Fatal
+记录时间：2014-11-10 15:16:13,469 线程ID:[10] 日志级别：INFO  出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：info
+记录时间：2014-11-10 15:16:13,470 线程ID:[10] 日志级别：WARN  出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：warn
+记录时间：2014-11-10 15:22:25,977 线程ID:[10] 日志级别：DEBUG 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：Debug
+记录时间：2014-11-10 15:22:26,020 线程ID:[10] 日志级别：ERROR 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：error
+System.Exception: Error
+记录时间：2014-11-10 15:22:26,022 线程ID:[10] 日志级别：FATAL 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：fatal
+System.Exception: Fatal
+记录时间：2014-11-10 15:22:26,023 线程ID:[10] 日志级别：INFO  出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：info
+记录时间：2014-11-10 15:22:26,027 线程ID:[10] 日志级别：WARN  出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：warn
+记录时间：2014-11-10 15:28:36,084 线程ID:[10] 日志级别：DEBUG 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：Debug
+记录时间：2014-11-10 15:28:36,125 线程ID:[10] 日志级别：ERROR 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：error
+System.Exception: Error
+记录时间：2014-11-10 15:28:36,127 线程ID:[10] 日志级别：FATAL 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：fatal
+System.Exception: Fatal
+记录时间：2014-11-10 15:28:36,128 线程ID:[10] 日志级别：INFO  出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：info
+记录时间：2014-11-10 15:28:36,132 线程ID:[10] 日志级别：WARN  出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：warn
+记录时间：2014-11-10 15:28:57,250 线程ID:[9] 日志级别：DEBUG 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：Debug
+记录时间：2014-11-10 15:28:57,291 线程ID:[9] 日志级别：ERROR 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：error
+System.Exception: Error
+记录时间：2014-11-10 15:28:57,293 线程ID:[9] 日志级别：FATAL 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：fatal
+System.Exception: Fatal
+记录时间：2014-11-10 15:28:57,294 线程ID:[9] 日志级别：INFO  出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：info
+记录时间：2014-11-10 15:28:57,297 线程ID:[9] 日志级别：WARN  出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：warn
+记录时间：2014-11-10 15:30:38,957 线程ID:[10] 日志级别：DEBUG 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：Debug
+记录时间：2014-11-10 15:30:38,999 线程ID:[10] 日志级别：ERROR 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：error
+System.Exception: Error
+记录时间：2014-11-10 15:30:39,001 线程ID:[10] 日志级别：FATAL 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：fatal
+System.Exception: Fatal
+记录时间：2014-11-10 15:30:39,002 线程ID:[10] 日志级别：INFO  出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：info
+记录时间：2014-11-10 15:30:39,003 线程ID:[10] 日志级别：WARN  出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：warn
+记录时间：2014-11-10 15:31:42,203 线程ID:[10] 日志级别：DEBUG 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：Debug
+记录时间：2014-11-10 15:31:42,244 线程ID:[10] 日志级别：ERROR 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：error
+System.Exception: Error
+记录时间：2014-11-10 15:31:42,246 线程ID:[10] 日志级别：FATAL 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：fatal
+System.Exception: Fatal
+记录时间：2014-11-10 15:31:42,247 线程ID:[10] 日志级别：INFO  出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：info
+记录时间：2014-11-10 15:31:42,248 线程ID:[10] 日志级别：WARN  出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：warn
+记录时间：2014-11-10 15:32:29,439 线程ID:[10] 日志级别：DEBUG 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：Debug
+记录时间：2014-11-10 15:32:29,483 线程ID:[10] 日志级别：ERROR 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：error
+System.Exception: Error
+记录时间：2014-11-10 15:32:29,486 线程ID:[10] 日志级别：FATAL 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：fatal
+System.Exception: Fatal
+记录时间：2014-11-10 15:32:29,487 线程ID:[10] 日志级别：INFO  出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：info
+记录时间：2014-11-10 15:32:29,488 线程ID:[10] 日志级别：WARN  出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：warn
+记录时间：2014-11-10 15:34:17,058 线程ID:[10] 日志级别：DEBUG 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：Debug
+记录时间：2014-11-10 15:34:17,060 线程ID:[10] 日志级别：ERROR 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：error
+System.Exception: Error
+记录时间：2014-11-10 15:34:17,061 线程ID:[10] 日志级别：FATAL 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：fatal
+System.Exception: Fatal
+记录时间：2014-11-10 15:34:17,062 线程ID:[10] 日志级别：INFO  出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：info
+记录时间：2014-11-10 15:34:17,063 线程ID:[10] 日志级别：WARN  出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：warn
+记录时间：2014-11-10 15:34:41,425 线程ID:[9] 日志级别：DEBUG 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：Debug
+记录时间：2014-11-10 15:34:41,466 线程ID:[9] 日志级别：ERROR 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：error
+System.Exception: Error
+记录时间：2014-11-10 15:34:41,469 线程ID:[9] 日志级别：FATAL 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：fatal
+System.Exception: Fatal
+记录时间：2014-11-10 15:34:41,470 线程ID:[9] 日志级别：INFO  出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：info
+记录时间：2014-11-10 15:34:41,471 线程ID:[9] 日志级别：WARN  出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：warn
+记录时间：2014-11-10 15:36:48,433 线程ID:[10] 日志级别：DEBUG 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：Debug
+记录时间：2014-11-10 15:36:48,475 线程ID:[10] 日志级别：ERROR 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：error
+System.Exception: Error
+记录时间：2014-11-10 15:36:48,478 线程ID:[10] 日志级别：FATAL 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：fatal
+System.Exception: Fatal
+记录时间：2014-11-10 15:36:48,480 线程ID:[10] 日志级别：INFO  出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：info
+记录时间：2014-11-10 15:36:48,481 线程ID:[10] 日志级别：WARN  出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：warn
+by 周公记录时间：2014-11-10 15:37:11,688 线程ID:[10] 日志级别：DEBUG 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：Debug
+记录时间：2014-11-10 15:37:11,727 线程ID:[10] 日志级别：ERROR 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：error
+System.Exception: Error
+记录时间：2014-11-10 15:37:11,729 线程ID:[10] 日志级别：FATAL 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：fatal
+System.Exception: Fatal
+记录时间：2014-11-10 15:37:11,730 线程ID:[10] 日志级别：INFO  出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：info
+记录时间：2014-11-10 15:37:11,731 线程ID:[10] 日志级别：WARN  出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：warn
+by 周公记录时间：2014-11-10 15:37:27,832 线程ID:[10] 日志级别：DEBUG 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：Debug
+记录时间：2014-11-10 15:37:27,871 线程ID:[10] 日志级别：ERROR 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：error
+System.Exception: Error
+记录时间：2014-11-10 15:37:27,874 线程ID:[10] 日志级别：FATAL 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：fatal
+System.Exception: Fatal
+记录时间：2014-11-10 15:37:27,875 线程ID:[10] 日志级别：INFO  出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：info
+记录时间：2014-11-10 15:37:27,875 线程ID:[10] 日志级别：WARN  出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：warn
+by 周公记录时间：2014-11-10 15:37:41,686 线程ID:[10] 日志级别：DEBUG 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：Debug
+记录时间：2014-11-10 15:37:41,728 线程ID:[10] 日志级别：ERROR 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：error
+System.Exception: Error
+记录时间：2014-11-10 15:37:41,730 线程ID:[10] 日志级别：FATAL 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：fatal
+System.Exception: Fatal
+记录时间：2014-11-10 15:37:41,731 线程ID:[10] 日志级别：INFO  出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：info
+记录时间：2014-11-10 15:37:41,732 线程ID:[10] 日志级别：WARN  出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：warn
+by 周公记录时间：2014-11-10 15:38:28,601 线程ID:[10] 日志级别：DEBUG 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：Debug
+记录时间：2014-11-10 15:38:28,646 线程ID:[10] 日志级别：ERROR 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：error
+System.Exception: Error
+记录时间：2014-11-10 15:38:28,649 线程ID:[10] 日志级别：FATAL 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：fatal
+System.Exception: Fatal
+记录时间：2014-11-10 15:38:28,651 线程ID:[10] 日志级别：INFO  出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：info
+记录时间：2014-11-10 15:38:28,652 线程ID:[10] 日志级别：WARN  出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：warn
+by 周公记录时间：2014-11-10 15:40:16,743 线程ID:[9] 日志级别：DEBUG 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：Debug
+记录时间：2014-11-10 15:40:16,782 线程ID:[9] 日志级别：ERROR 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：error
+System.Exception: Error
+记录时间：2014-11-10 15:40:16,785 线程ID:[9] 日志级别：FATAL 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：fatal
+System.Exception: Fatal
+记录时间：2014-11-10 15:40:16,786 线程ID:[9] 日志级别：INFO  出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：info
+记录时间：2014-11-10 15:40:16,787 线程ID:[9] 日志级别：WARN  出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：warn
+by 周公记录时间：2014-11-10 15:41:28,899 线程ID:[9] 日志级别：DEBUG 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：Debug
+记录时间：2014-11-10 15:41:28,965 线程ID:[9] 日志级别：ERROR 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：error
+System.Exception: Error
+记录时间：2014-11-10 15:41:28,974 线程ID:[9] 日志级别：FATAL 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：fatal
+System.Exception: Fatal
+记录时间：2014-11-10 15:41:28,981 线程ID:[9] 日志级别：INFO  出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：info
+记录时间：2014-11-10 15:41:28,991 线程ID:[9] 日志级别：WARN  出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：warn
+by 周公记录时间：2014-11-10 15:42:45,420 线程ID:[9] 日志级别：DEBUG 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：Debug
+记录时间：2014-11-10 15:42:45,478 线程ID:[9] 日志级别：ERROR 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：error
+System.Exception: Error
+记录时间：2014-11-10 15:42:45,486 线程ID:[9] 日志级别：FATAL 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：fatal
+System.Exception: Fatal
+记录时间：2014-11-10 15:42:45,493 线程ID:[9] 日志级别：INFO  出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：info
+记录时间：2014-11-10 15:42:45,509 线程ID:[9] 日志级别：WARN  出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：warn
+by 周公记录时间：2014-11-10 15:44:00,439 线程ID:[9] 日志级别：DEBUG 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：Debug
+记录时间：2014-11-10 15:44:00,494 线程ID:[9] 日志级别：ERROR 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：error
+System.Exception: Error
+记录时间：2014-11-10 15:44:00,517 线程ID:[9] 日志级别：FATAL 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：fatal
+System.Exception: Fatal
+记录时间：2014-11-10 15:44:00,524 线程ID:[9] 日志级别：INFO  出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：info
+记录时间：2014-11-10 15:44:00,547 线程ID:[9] 日志级别：WARN  出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：warn
+记录时间：2014-11-10 15:44:00,574 线程ID:[9] 日志级别：DEBUG 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：Debug
+记录时间：2014-11-10 15:44:00,581 线程ID:[9] 日志级别：ERROR 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：error
+System.Exception: Error
+记录时间：2014-11-10 15:44:00,587 线程ID:[9] 日志级别：FATAL 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：fatal
+System.Exception: Fatal
+记录时间：2014-11-10 15:44:00,593 线程ID:[9] 日志级别：INFO  出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：info
+记录时间：2014-11-10 15:44:00,599 线程ID:[9] 日志级别：WARN  出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：warn
+记录时间：2014-11-10 15:44:00,623 线程ID:[9] 日志级别：DEBUG 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：Debug
+记录时间：2014-11-10 15:44:00,630 线程ID:[9] 日志级别：ERROR 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：error
+System.Exception: Error
+记录时间：2014-11-10 15:44:00,636 线程ID:[9] 日志级别：FATAL 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：fatal
+System.Exception: Fatal
+记录时间：2014-11-10 15:44:00,704 线程ID:[9] 日志级别：INFO  出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：info
+记录时间：2014-11-10 15:44:00,718 线程ID:[9] 日志级别：WARN  出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：warn
+记录时间：2014-11-10 15:44:00,772 线程ID:[9] 日志级别：DEBUG 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：Debug
+记录时间：2014-11-10 15:44:00,779 线程ID:[9] 日志级别：ERROR 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：error
+System.Exception: Error
+记录时间：2014-11-10 15:44:00,785 线程ID:[9] 日志级别：FATAL 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：fatal
+System.Exception: Fatal
+记录时间：2014-11-10 15:44:00,791 线程ID:[9] 日志级别：INFO  出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：info
+记录时间：2014-11-10 15:44:00,797 线程ID:[9] 日志级别：WARN  出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：warn
+记录时间：2014-11-10 15:44:00,905 线程ID:[9] 日志级别：DEBUG 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：Debug
+记录时间：2014-11-10 15:44:00,912 线程ID:[9] 日志级别：ERROR 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：error
+System.Exception: Error
+记录时间：2014-11-10 15:44:00,919 线程ID:[9] 日志级别：FATAL 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：fatal
+System.Exception: Fatal
+记录时间：2014-11-10 15:44:00,926 线程ID:[9] 日志级别：INFO  出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：info
+记录时间：2014-11-10 15:44:00,932 线程ID:[9] 日志级别：WARN  出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：warn
+记录时间：2014-11-10 15:44:01,061 线程ID:[9] 日志级别：DEBUG 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：Debug
+记录时间：2014-11-10 15:44:01,069 线程ID:[9] 日志级别：ERROR 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：error
+System.Exception: Error
+记录时间：2014-11-10 15:44:01,076 线程ID:[9] 日志级别：FATAL 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：fatal
+System.Exception: Fatal
+记录时间：2014-11-10 15:44:01,082 线程ID:[9] 日志级别：INFO  出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：info
+记录时间：2014-11-10 15:44:01,089 线程ID:[9] 日志级别：WARN  出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：warn
+记录时间：2014-11-10 15:44:01,226 线程ID:[9] 日志级别：DEBUG 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：Debug
+记录时间：2014-11-10 15:44:01,233 线程ID:[9] 日志级别：ERROR 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：error
+System.Exception: Error
+记录时间：2014-11-10 15:44:01,239 线程ID:[9] 日志级别：FATAL 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：fatal
+System.Exception: Fatal
+记录时间：2014-11-10 15:44:01,248 线程ID:[9] 日志级别：INFO  出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：info
+记录时间：2014-11-10 15:44:01,255 线程ID:[9] 日志级别：WARN  出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：warn
+记录时间：2014-11-10 15:44:01,352 线程ID:[9] 日志级别：DEBUG 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：Debug
+记录时间：2014-11-10 15:44:01,359 线程ID:[9] 日志级别：ERROR 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：error
+System.Exception: Error
+记录时间：2014-11-10 15:44:01,366 线程ID:[9] 日志级别：FATAL 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：fatal
+System.Exception: Fatal
+记录时间：2014-11-10 15:44:01,374 线程ID:[9] 日志级别：INFO  出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：info
+记录时间：2014-11-10 15:44:01,380 线程ID:[9] 日志级别：WARN  出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：warn
+记录时间：2014-11-10 15:44:01,500 线程ID:[9] 日志级别：DEBUG 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：Debug
+记录时间：2014-11-10 15:44:01,519 线程ID:[9] 日志级别：ERROR 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：error
+System.Exception: Error
+记录时间：2014-11-10 15:44:01,531 线程ID:[9] 日志级别：FATAL 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：fatal
+System.Exception: Fatal
+记录时间：2014-11-10 15:44:01,542 线程ID:[9] 日志级别：INFO  出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：info
+记录时间：2014-11-10 15:44:01,549 线程ID:[9] 日志级别：WARN  出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：warn
+记录时间：2014-11-10 15:44:01,633 线程ID:[9] 日志级别：DEBUG 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：Debug
+记录时间：2014-11-10 15:44:01,640 线程ID:[9] 日志级别：ERROR 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：error
+System.Exception: Error
+记录时间：2014-11-10 15:44:01,645 线程ID:[9] 日志级别：FATAL 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：fatal
+System.Exception: Fatal
+记录时间：2014-11-10 15:44:01,651 线程ID:[9] 日志级别：INFO  出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：info
+记录时间：2014-11-10 15:44:01,659 线程ID:[9] 日志级别：WARN  出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：warn
+记录时间：2014-11-10 15:44:01,772 线程ID:[9] 日志级别：DEBUG 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：Debug
+记录时间：2014-11-10 15:44:01,780 线程ID:[9] 日志级别：ERROR 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：error
+System.Exception: Error
+记录时间：2014-11-10 15:44:01,786 线程ID:[9] 日志级别：FATAL 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：fatal
+System.Exception: Fatal
+记录时间：2014-11-10 15:44:01,793 线程ID:[9] 日志级别：INFO  出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：info
+记录时间：2014-11-10 15:44:01,801 线程ID:[9] 日志级别：WARN  出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：warn
+记录时间：2014-11-10 15:44:01,948 线程ID:[9] 日志级别：DEBUG 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：Debug
+记录时间：2014-11-10 15:44:01,956 线程ID:[9] 日志级别：ERROR 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：error
+System.Exception: Error
+记录时间：2014-11-10 15:44:01,963 线程ID:[9] 日志级别：FATAL 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：fatal
+System.Exception: Fatal
+记录时间：2014-11-10 15:44:01,969 线程ID:[9] 日志级别：INFO  出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：info
+记录时间：2014-11-10 15:44:01,978 线程ID:[9] 日志级别：WARN  出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：warn
+记录时间：2014-11-10 15:44:02,092 线程ID:[9] 日志级别：DEBUG 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：Debug
+记录时间：2014-11-10 15:44:02,099 线程ID:[9] 日志级别：ERROR 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：error
+System.Exception: Error
+记录时间：2014-11-10 15:44:02,106 线程ID:[9] 日志级别：FATAL 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：fatal
+System.Exception: Fatal
+记录时间：2014-11-10 15:44:02,115 线程ID:[9] 日志级别：INFO  出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：info
+记录时间：2014-11-10 15:44:02,126 线程ID:[9] 日志级别：WARN  出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：warn
+记录时间：2014-11-10 15:44:02,255 线程ID:[9] 日志级别：DEBUG 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：Debug
+记录时间：2014-11-10 15:44:02,266 线程ID:[9] 日志级别：ERROR 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：error
+System.Exception: Error
+记录时间：2014-11-10 15:44:02,275 线程ID:[9] 日志级别：FATAL 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：fatal
+System.Exception: Fatal
+记录时间：2014-11-10 15:44:02,281 线程ID:[9] 日志级别：INFO  出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：info
+记录时间：2014-11-10 15:44:02,288 线程ID:[9] 日志级别：WARN  出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：warn
+记录时间：2014-11-10 15:44:02,422 线程ID:[9] 日志级别：DEBUG 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：Debug
+记录时间：2014-11-10 15:44:02,432 线程ID:[9] 日志级别：ERROR 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：error
+System.Exception: Error
+记录时间：2014-11-10 15:44:02,438 线程ID:[9] 日志级别：FATAL 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：fatal
+System.Exception: Fatal
+记录时间：2014-11-10 15:44:02,444 线程ID:[9] 日志级别：INFO  出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：info
+记录时间：2014-11-10 15:44:02,451 线程ID:[9] 日志级别：WARN  出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：warn
+记录时间：2014-11-10 15:44:02,571 线程ID:[9] 日志级别：DEBUG 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：Debug
+记录时间：2014-11-10 15:44:02,582 线程ID:[9] 日志级别：ERROR 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：error
+System.Exception: Error
+记录时间：2014-11-10 15:44:02,590 线程ID:[9] 日志级别：FATAL 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：fatal
+System.Exception: Fatal
+记录时间：2014-11-10 15:44:02,596 线程ID:[9] 日志级别：INFO  出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：info
+记录时间：2014-11-10 15:44:02,603 线程ID:[9] 日志级别：WARN  出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：warn
+记录时间：2014-11-10 15:44:02,732 线程ID:[9] 日志级别：DEBUG 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：Debug
+记录时间：2014-11-10 15:44:02,738 线程ID:[9] 日志级别：ERROR 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：error
+System.Exception: Error
+记录时间：2014-11-10 15:44:02,744 线程ID:[9] 日志级别：FATAL 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：fatal
+System.Exception: Fatal
+记录时间：2014-11-10 15:44:02,750 线程ID:[9] 日志级别：INFO  出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：info
+记录时间：2014-11-10 15:44:02,756 线程ID:[9] 日志级别：WARN  出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：warn
+记录时间：2014-11-10 15:44:02,885 线程ID:[9] 日志级别：DEBUG 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：Debug
+记录时间：2014-11-10 15:44:02,891 线程ID:[9] 日志级别：ERROR 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：error
+System.Exception: Error
+记录时间：2014-11-10 15:44:02,898 线程ID:[9] 日志级别：FATAL 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：fatal
+System.Exception: Fatal
+记录时间：2014-11-10 15:44:02,905 线程ID:[9] 日志级别：INFO  出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：info
+记录时间：2014-11-10 15:44:02,912 线程ID:[9] 日志级别：WARN  出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：warn
+记录时间：2014-11-10 15:44:03,062 线程ID:[9] 日志级别：DEBUG 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：Debug
+记录时间：2014-11-10 15:44:03,069 线程ID:[9] 日志级别：ERROR 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：error
+System.Exception: Error
+记录时间：2014-11-10 15:44:03,076 线程ID:[9] 日志级别：FATAL 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：fatal
+System.Exception: Fatal
+记录时间：2014-11-10 15:44:03,082 线程ID:[9] 日志级别：INFO  出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：info
+记录时间：2014-11-10 15:44:03,089 线程ID:[9] 日志级别：WARN  出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：warn
 by 周公

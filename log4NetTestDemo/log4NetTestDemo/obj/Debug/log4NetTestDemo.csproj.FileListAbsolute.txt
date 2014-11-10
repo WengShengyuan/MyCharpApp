@@ -8,3 +8,4 @@ D:\MyGit\Csharpapp\MyCharpApp\log4NetTestDemo\log4NetTestDemo\obj\Debug\log4NetT
 D:\MyGit\Csharpapp\MyCharpApp\log4NetTestDemo\log4NetTestDemo\obj\Debug\log4NetTestDemo.csproj.GenerateResource.Cache
 D:\MyGit\Csharpapp\MyCharpApp\log4NetTestDemo\log4NetTestDemo\obj\Debug\log4NetTestDemo.exe
 D:\MyGit\Csharpapp\MyCharpApp\log4NetTestDemo\log4NetTestDemo\obj\Debug\log4NetTestDemo.pdb
+D:\MyGit\Csharpapp\MyCharpApp\log4NetTestDemo\log4NetTestDemo\obj\Debug\log4NetTestDemo.csprojResolveAssemblyReference.cache
