@@ -1,0 +1,10 @@
+D:\MyGit\Csharpapp\MyCharpApp\log4NetTestDemo\log4NetTestDemo\bin\Debug\log4NetTestDemo.exe.config
+D:\MyGit\Csharpapp\MyCharpApp\log4NetTestDemo\log4NetTestDemo\bin\Debug\log4NetTestDemo.exe
+D:\MyGit\Csharpapp\MyCharpApp\log4NetTestDemo\log4NetTestDemo\bin\Debug\log4NetTestDemo.pdb
+D:\MyGit\Csharpapp\MyCharpApp\log4NetTestDemo\log4NetTestDemo\bin\Debug\log4net.dll
+D:\MyGit\Csharpapp\MyCharpApp\log4NetTestDemo\log4NetTestDemo\bin\Debug\log4net.xml
+D:\MyGit\Csharpapp\MyCharpApp\log4NetTestDemo\log4NetTestDemo\obj\Debug\log4NetTestDemo.Form1.resources
+D:\MyGit\Csharpapp\MyCharpApp\log4NetTestDemo\log4NetTestDemo\obj\Debug\log4NetTestDemo.Properties.Resources.resources
+D:\MyGit\Csharpapp\MyCharpApp\log4NetTestDemo\log4NetTestDemo\obj\Debug\log4NetTestDemo.csproj.GenerateResource.Cache
+D:\MyGit\Csharpapp\MyCharpApp\log4NetTestDemo\log4NetTestDemo\obj\Debug\log4NetTestDemo.exe
+D:\MyGit\Csharpapp\MyCharpApp\log4NetTestDemo\log4NetTestDemo\obj\Debug\log4NetTestDemo.pdb

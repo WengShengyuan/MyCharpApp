@@ -1,0 +1,1 @@
+D:\MyGit\Csharpapp\MyCharpApp\log4NetSource\examples\net\2.0\Tutorials\ConsoleApp\cs\src\obj\Debug\ConsoleApp.csprojResolveAssemblyReference.cache

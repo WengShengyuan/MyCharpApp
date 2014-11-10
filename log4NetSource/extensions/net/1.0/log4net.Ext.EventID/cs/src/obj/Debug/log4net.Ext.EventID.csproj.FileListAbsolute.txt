@@ -1,0 +1,1 @@
+D:\MyGit\Csharpapp\MyCharpApp\log4NetSource\extensions\net\1.0\log4net.Ext.EventID\cs\src\obj\Debug\log4net.Ext.EventID.csprojResolveAssemblyReference.cache

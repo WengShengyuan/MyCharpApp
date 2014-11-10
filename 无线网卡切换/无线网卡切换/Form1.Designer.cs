@@ -241,11 +241,12 @@
             // 
             // lb_configList
             // 
+            this.lb_configList.Font = new System.Drawing.Font("宋体", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(134)));
             this.lb_configList.FormattingEnabled = true;
-            this.lb_configList.ItemHeight = 12;
+            this.lb_configList.ItemHeight = 16;
             this.lb_configList.Location = new System.Drawing.Point(432, 53);
             this.lb_configList.Name = "lb_configList";
-            this.lb_configList.Size = new System.Drawing.Size(227, 280);
+            this.lb_configList.Size = new System.Drawing.Size(227, 276);
             this.lb_configList.TabIndex = 11;
             this.lb_configList.SelectedIndexChanged += new System.EventHandler(this.lb_configList_SelectedIndexChanged);
             // 

@@ -1,0 +1,15 @@
+记录时间：2014-11-10 09:54:25,608 线程ID:[10] 日志级别：ERROR 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：error
+System.Exception: 发生了一个异常
+记录时间：2014-11-10 09:54:25,640 线程ID:[10] 日志级别：FATAL 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：fatal
+System.Exception: 发生了一个致命错误
+记录时间：2014-11-10 09:54:25,640 线程ID:[10] 日志级别：INFO  出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：info
+记录时间：2014-11-10 09:54:25,641 线程ID:[10] 日志级别：DEBUG 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：debug
+记录时间：2014-11-10 09:54:25,641 线程ID:[10] 日志级别：WARN  出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：warn
+记录时间：2014-11-10 09:54:26,734 线程ID:[10] 日志级别：ERROR 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：error
+System.Exception: 发生了一个异常
+记录时间：2014-11-10 09:54:26,734 线程ID:[10] 日志级别：FATAL 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：fatal
+System.Exception: 发生了一个致命错误
+记录时间：2014-11-10 09:54:26,735 线程ID:[10] 日志级别：INFO  出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：info
+记录时间：2014-11-10 09:54:26,735 线程ID:[10] 日志级别：DEBUG 出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：debug
+记录时间：2014-11-10 09:54:26,735 线程ID:[10] 日志级别：WARN  出错类：log4NetTestDemo.Form1 property:[(null)] - 错误描述：warn
+by 周公
