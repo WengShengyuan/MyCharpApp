@@ -16,3 +16,6 @@ D:\MyGit\Csharpapp\MyCharpApp\无线网卡切换\无线网卡切换\obj\Debug\�
 D:\MyGit\Csharpapp\MyCharpApp\无线网卡切换\无线网卡切换\obj\Debug\无线网卡切换.Form1.resources
 D:\MyGit\Csharpapp\MyCharpApp\无线网卡切换\无线网卡切换\obj\Debug\无线网卡切换.Properties.Resources.resources
 D:\MyGit\Csharpapp\MyCharpApp\无线网卡切换\无线网卡切换\obj\Debug\无线网卡切换.csproj.GenerateResource.Cache
+D:\Git\MyCharpApp\无线网卡切换\无线网卡切换\bin\Debug\无线网卡切换.exe.config
+D:\Git\MyCharpApp\无线网卡切换\无线网卡切换\obj\Debug\无线网卡切换.exe
+D:\Git\MyCharpApp\无线网卡切换\无线网卡切换\obj\Debug\无线网卡切换.pdb
