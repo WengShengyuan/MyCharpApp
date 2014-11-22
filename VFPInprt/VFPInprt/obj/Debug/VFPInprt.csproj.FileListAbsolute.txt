@@ -1,0 +1,16 @@
+D:\营销组\TFS\VFPInprt\VFPInprt\bin\Debug\VFPInprt.exe
+D:\营销组\TFS\VFPInprt\VFPInprt\bin\Debug\VFPInprt.pdb
+D:\营销组\TFS\VFPInprt\VFPInprt\obj\Debug\VFPInprt.csprojResolveAssemblyReference.cache
+D:\营销组\TFS\VFPInprt\VFPInprt\obj\Debug\VFPInprt.Form1.resources
+D:\营销组\TFS\VFPInprt\VFPInprt\obj\Debug\VFPInprt.Properties.Resources.resources
+D:\营销组\TFS\VFPInprt\VFPInprt\obj\Debug\VFPInprt.csproj.GenerateResource.Cache
+D:\营销组\TFS\VFPInprt\VFPInprt\obj\Debug\VFPInprt.exe
+D:\营销组\TFS\VFPInprt\VFPInprt\obj\Debug\VFPInprt.pdb
+C:\Users\Administrator\Desktop\VPF\VFPInprt\VFPInprt\obj\Debug\VFPInprt.exe
+C:\Users\Administrator\Desktop\VPF\VFPInprt\VFPInprt\obj\Debug\VFPInprt.pdb
+C:\Users\Administrator\Desktop\VPF\VFPInprt\VFPInprt\bin\Debug\VFPInprt.exe
+C:\Users\Administrator\Desktop\VPF\VFPInprt\VFPInprt\bin\Debug\VFPInprt.pdb
+C:\Users\Administrator\Desktop\VPF\VFPInprt\VFPInprt\obj\Debug\VFPInprt.Form1.resources
+C:\Users\Administrator\Desktop\VPF\VFPInprt\VFPInprt\obj\Debug\VFPInprt.Properties.Resources.resources
+C:\Users\Administrator\Desktop\VPF\VFPInprt\VFPInprt\obj\Debug\VFPInprt.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\VPF\VFPInprt\VFPInprt\bin\Debug\VFPInprt.exe.config

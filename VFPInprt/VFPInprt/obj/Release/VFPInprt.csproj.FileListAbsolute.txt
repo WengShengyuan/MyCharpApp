@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\VPF\VFPInprt\VFPInprt\bin\Release\VFPInprt.exe.config
+C:\Users\Administrator\Desktop\VPF\VFPInprt\VFPInprt\bin\Release\VFPInprt.exe
+C:\Users\Administrator\Desktop\VPF\VFPInprt\VFPInprt\bin\Release\VFPInprt.pdb
+C:\Users\Administrator\Desktop\VPF\VFPInprt\VFPInprt\obj\Release\VFPInprt.Form1.resources
+C:\Users\Administrator\Desktop\VPF\VFPInprt\VFPInprt\obj\Release\VFPInprt.Properties.Resources.resources
+C:\Users\Administrator\Desktop\VPF\VFPInprt\VFPInprt\obj\Release\VFPInprt.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\VPF\VFPInprt\VFPInprt\obj\Release\VFPInprt.exe
+C:\Users\Administrator\Desktop\VPF\VFPInprt\VFPInprt\obj\Release\VFPInprt.pdb
