@@ -6,3 +6,12 @@ D:\Csharpapp\BPANNDemo\BPANNDemo\bin\Release\BPANNDemo.exe
 D:\Csharpapp\BPANNDemo\BPANNDemo\bin\Release\BPANNDemo.pdb
 D:\Csharpapp\BPANNDemo\BPANNDemo\obj\Release\BPANNDemo.exe
 D:\Csharpapp\BPANNDemo\BPANNDemo\obj\Release\BPANNDemo.pdb
+D:\Git\MyCharpApp\BPANNDemo\BPANNDemo\obj\Release\BPANNDemo.exe
+D:\Git\MyCharpApp\BPANNDemo\BPANNDemo\obj\Release\BPANNDemo.pdb
+D:\Git\MyCharpApp\BPANNDemo\BPANNDemo\bin\Release\BPANNDemo.exe
+D:\Git\MyCharpApp\BPANNDemo\BPANNDemo\bin\Release\BPANNDemo.pdb
+D:\Git\MyCharpApp\BPANNDemo\BPANNDemo\obj\Release\BPANNDemo.csprojResolveAssemblyReference.cache
+D:\Git\MyCharpApp\BPANNDemo\BPANNDemo\obj\Release\BPANNDemo.ChartForm.resources
+D:\Git\MyCharpApp\BPANNDemo\BPANNDemo\obj\Release\BPANNDemo.Form1.resources
+D:\Git\MyCharpApp\BPANNDemo\BPANNDemo\obj\Release\BPANNDemo.Properties.Resources.resources
+D:\Git\MyCharpApp\BPANNDemo\BPANNDemo\obj\Release\BPANNDemo.csproj.GenerateResource.Cache

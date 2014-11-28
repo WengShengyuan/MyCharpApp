@@ -10,7 +10,8 @@ namespace BPANNDemo
         /// <summary>
         /// 应用程序的主入口点。
         /// </summary>
-        [MTAThread]
+        //[MTAThread]
+        [STAThread]
         static void Main()
         {
             Application.EnableVisualStyles();

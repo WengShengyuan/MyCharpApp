@@ -51,6 +51,7 @@
     <Compile Include="ChartForm.Designer.cs">
       <DependentUpon>ChartForm.cs</DependentUpon>
     </Compile>
+    <Compile Include="CsvHelper.cs" />
     <Compile Include="DEGenetic.cs" />
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>

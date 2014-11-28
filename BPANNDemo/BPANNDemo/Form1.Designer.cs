@@ -84,6 +84,7 @@
             this.label12 = new System.Windows.Forms.Label();
             this.DE_mutateRate = new System.Windows.Forms.TextBox();
             this.DE_maxGeneration = new System.Windows.Forms.TextBox();
+            this.button9 = new System.Windows.Forms.Button();
             ((System.ComponentModel.ISupportInitialize)(this.trainDataGrid)).BeginInit();
             this.tabControl1.SuspendLayout();
             this.tabPage1.SuspendLayout();
@@ -271,9 +272,9 @@
             // 
             // button5
             // 
-            this.button5.Location = new System.Drawing.Point(277, 135);
+            this.button5.Location = new System.Drawing.Point(277, 86);
             this.button5.Name = "button5";
-            this.button5.Size = new System.Drawing.Size(178, 49);
+            this.button5.Size = new System.Drawing.Size(178, 44);
             this.button5.TabIndex = 19;
             this.button5.Text = "进化演示";
             this.button5.UseVisualStyleBackColor = true;
@@ -285,7 +286,7 @@
             this.button6.Name = "button6";
             this.button6.Size = new System.Drawing.Size(98, 50);
             this.button6.TabIndex = 20;
-            this.button6.Text = "遗传算法选择";
+            this.button6.Text = "遗传算法优化";
             this.button6.UseVisualStyleBackColor = true;
             this.button6.Click += new System.EventHandler(this.button6_Click);
             // 
@@ -297,6 +298,7 @@
             // 
             // splitContainer1.Panel1
             // 
+            this.splitContainer1.Panel1.Controls.Add(this.button9);
             this.splitContainer1.Panel1.Controls.Add(this.button3);
             this.splitContainer1.Panel1.Controls.Add(this.button1);
             this.splitContainer1.Panel1.Controls.Add(this.button5);
@@ -606,6 +608,7 @@
             this.button7.TabIndex = 30;
             this.button7.Text = "正交差分计算";
             this.button7.UseVisualStyleBackColor = true;
+            this.button7.Visible = false;
             this.button7.Click += new System.EventHandler(this.button7_Click);
             // 
             // DE_maxNetwork
@@ -665,6 +668,16 @@
             this.DE_maxGeneration.Size = new System.Drawing.Size(59, 21);
             this.DE_maxGeneration.TabIndex = 36;
             this.DE_maxGeneration.Text = "70";
+            // 
+            // button9
+            // 
+            this.button9.Location = new System.Drawing.Point(276, 138);
+            this.button9.Name = "button9";
+            this.button9.Size = new System.Drawing.Size(178, 44);
+            this.button9.TabIndex = 20;
+            this.button9.Text = "保存结果";
+            this.button9.UseVisualStyleBackColor = true;
+            this.button9.Click += new System.EventHandler(this.button9_Click);
             // 
             // Form1
             // 
@@ -753,6 +766,7 @@
         private System.Windows.Forms.Label th2;
         private System.Windows.Forms.TextBox th2V;
         private System.Windows.Forms.Button button8;
+        private System.Windows.Forms.Button button9;
     }
 }
 

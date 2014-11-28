@@ -261,5 +261,26 @@ namespace BPANNDemo
             cf.Show();
 
         }
+
+        private void button9_Click(object sender, EventArgs e)
+        {
+            //保存结果
+            SaveFileDialog sfd = new SaveFileDialog();
+            if (sfd.ShowDialog() == DialogResult.OK)
+            {
+                string savePath = sfd.FileName;
+                CsvHelper.dt2csv((DataTable)testDataGrid.DataSource, savePath, "计算结果", getColumns(((DataTable)testDataGrid.DataSource).Columns));
+            }
+        }
+
+        private string getColumns(DataColumnCollection icc)
+        {
+            string rstr = "";
+            foreach (var v in icc)
+            {
+                rstr += v+",";
+            }
+            return rstr.Substring(0, rstr.Length - 1);
+        }
     }
 }
